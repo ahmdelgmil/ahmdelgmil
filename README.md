@@ -62,23 +62,4 @@ I am a passionate **Full Stack Developer** with expertise in **JavaScript**, **A
 
 ---
 
-## 📜 Certifications  
-- **Marketing & Customer Service Training** – National Education Network (2017)  
-- **Bookkeeping & Excel Accounting** – American International Academy (2017)  
-- **Syllabus 5.0: Windows 7 & Office 2010** – National Education Network (2016)  
-
----
-
-## 📚 Education  
-- **Port Said University** – Faculty of Technology & Information Systems (2012 - 2016)  
-  - Bachelor's in Management Information Systems  
-- **Abdel Rahman Shokry Secondary School** – Port Said (2009 - 2012)  
-
----
-
-## 💡 Fun Fact  
-I love solving puzzles and playing chess in my free time! ♟️  
-
----
-
 **Thank you for visiting my profile!** 😊  

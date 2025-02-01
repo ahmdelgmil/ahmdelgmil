@@ -1,7 +1,6 @@
 # Ahmed Elgamil Abdo  
 ### Full Stack Developer | Odoo Expert  
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmdelgmil&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdelgmil&layout=compact&theme=radical&hide_border=true)  
 
 ## 👋 About Me  
@@ -10,7 +9,7 @@ I am a passionate **Full Stack Developer** with expertise in **JavaScript**, **A
 🔭 **I’m currently working on:** Enhancing my skills in AI and machine learning.  
 🌱 **I’m currently learning:** Advanced Python for AI and data science.  
 💬 **Ask me about:** Full Stack Development, Odoo Customization, or Web Scraping.  
-📫 **How to reach me:** [Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/)  
+📫 **How to reach me:** [Email](ahmdelgmil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmdelgmil)  
 
 ---
 

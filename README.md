@@ -9,7 +9,7 @@ I am a passionate **Full Stack Developer** with expertise in **JavaScript**, **A
 🔭 **I’m currently working on:** Enhancing my skills in AI and machine learning.  
 🌱 **I’m currently learning:** Advanced Python for AI and data science.  
 💬 **Ask me about:** Full Stack Development, Odoo Customization, or Web Scraping.  
-📫 **How to reach me:** [Email](ahmdelgmil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmdelgmil)  
+📫 **How to reach me:** [Email](mailto:ahmdelgmil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmdelgmil)  
 
 ---
 

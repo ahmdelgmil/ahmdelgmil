@@ -38,18 +38,10 @@ I am a passionate **Full Stack Developer** with expertise in **JavaScript**, **A
 
 ## 🚀 Projects  
 
-### [Firebase Manager](https://github.com/ahmdelgmil/firebase-manager)  
+### [Firebase Manager](https://www.firebasemanager.com)  
 - A leading Angular-based platform for managing Firebase projects.  
 - Ranked **#1 globally** for "firebase manager".  
 - **Features:** Admin & User Role Management, Firestore Database, Real-time Authentication.  
-
-### [AI-Powered Recipe Scraping Platform](https://github.com/ahmdelgmil/recipe-scraper)  
-- A web scraping platform to extract recipe data using AI.  
-- **Technologies:** Python, Firebase, AI, Data Processing.  
-
-### [Odoo Customization – Invoice Modification](https://github.com/ahmdelgmil/odoo-customization)  
-- Developed custom Odoo modules for invoice printing and form customization.  
-- **Technologies:** Odoo ERP, Python, Database Management.  
 
 ---
 
